@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "P_ScrollView_TabLayout_Viewpager_Fragment_ListView_Viewpager"
